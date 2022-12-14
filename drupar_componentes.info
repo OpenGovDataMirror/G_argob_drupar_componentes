@@ -1,0 +1,4 @@
+name = Componentes
+description = Implementa los componentes de Poncho en Drupal
+core = 7.x
+package = Drupar
